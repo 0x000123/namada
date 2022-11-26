@@ -55,5 +55,5 @@ namada-ts contribute default https://contribute.namada.net $TOKEN
 ```
 
 Catatan: Anda akan berpartisipasi sesuai dengan tanggal di email Anda. Bergabunglah tidak terlalu dini atau terlalu terlambat. Jangan kehilangan hak :)
-Bagi yang tidak bisa mendapatkan surat, [namada twitter](https://twitter.com/namadanetwork) hesabınınKami akan menunggu token dibagikan. 
+Bagi yang tidak bisa mendapatkan surat, [namada twitter](https://twitter.com/namadanetwork) Kami akan menunggu token dibagikan. 
 Sepertinya mereka akan membagikan token harian, tetapi saya tidak tahu kapan mereka akan mulai berbagi. Anda harus cepat saat token dibagikan karena dapat dibuang dan seseorang mungkin menggunakan token yang relevan sebelum Anda melakukannya.
